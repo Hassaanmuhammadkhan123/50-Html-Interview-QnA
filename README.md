@@ -1,6 +1,5 @@
 # 50 HTML Interview Questions and Answers <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50"/>
 
-
 Welcome to the HTML interview preparation guide! This document contains a list of 50 questions and answers to help you prepare for HTML-related interviews. Each question is followed by a detailed answer to help you understand the concepts better.
 
 :bulb: **Tip:** Use this guide to review important HTML concepts and improve your interview performance.
@@ -10,7 +9,6 @@ Welcome to the HTML interview preparation guide! This document contains a list o
 - Try to answer the question on your own.
 - Compare your answer with the provided solution.
 - Use the explanation to deepen your understanding.
-
 
 ### Best For Beginners
 🔍 Comprehensive: Covers 50 questions related to HTML, providing in-depth explanations and examples.
